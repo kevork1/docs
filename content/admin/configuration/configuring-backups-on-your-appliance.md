@@ -14,7 +14,7 @@ redirect_from:
   - /enterprise/admin/configuration/configuring-backups-on-your-appliance
 intro: 'As part of a disaster recovery plan, you can protect production data on {% data variables.product.product_location %} by configuring automated backups.'
 versions:
-  enterprise-server: '*'
+  enterprise-server: 
 ---
 
 ### About {% data variables.product.prodname_enterprise_backup_utilities %}
