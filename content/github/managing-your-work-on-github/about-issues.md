@@ -5,9 +5,9 @@ redirect_from:
   - /articles/creating-issues/
   - /articles/about-issues/
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  free-pro-team: 
+  enterprise-server: 
+  github-ae: 
 ---
 
 ### About issues
