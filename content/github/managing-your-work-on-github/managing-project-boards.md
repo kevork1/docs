@@ -5,8 +5,8 @@ mapTopic: true
 redirect_from:
   - /articles/managing-project-boards
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  free-pro-team: 
+  enterprise-server: 
+  github-ae: 
 ---
 
