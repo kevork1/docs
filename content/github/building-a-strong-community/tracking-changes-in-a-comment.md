@@ -3,10 +3,10 @@ title: Tracking changes in a comment
 intro: You can view the edit history of a comment or delete sensitive information from the edit history of a comment.
 redirect_from:
   - /articles/tracking-changes-in-a-comment
-versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+version
+  free-pro-team: 
+  enterprise-server: 
+  github-ae: 
 ---
 
 ### Viewing a comment's edit history details
